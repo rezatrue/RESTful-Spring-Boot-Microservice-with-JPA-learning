@@ -1,0 +1,30 @@
+RESTful-Spring-Boot-Microservice-with-JPA-learning
+
+
+
+
+Step 01: SPRING INITIALIZR 
+
+Lession 01 : 
+Group com.example.ec
+Artifact explorecli
+Package Name com.example.ec.explorecli
+Packaging Jar
+Java Version 1.8
+
+Web
+Full-stack web development with Tomcat and Spring MVC
+
+Rest Repositories
+Exposing Spring Data repositories over REST via spring-data-rest-webmvc
+
+JPA
+Java Persistence API including spring-data-jpa, spring-orm and Hibernate
+
+H2
+H2 database (with embedded support)
+
+
+
+Insalling Maven in Windows machine
+https://www.mkyong.com/maven/how-to-install-maven-in-windows/
