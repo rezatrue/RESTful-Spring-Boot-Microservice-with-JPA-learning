@@ -26,5 +26,3 @@ H2 database (with embedded support)
 
 
 
-Insalling Maven in Windows machine
-https://www.mkyong.com/maven/how-to-install-maven-in-windows/
