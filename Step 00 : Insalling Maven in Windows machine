@@ -1,2 +1,14 @@
-Insalling Maven in Windows machine
+Source : 
 https://www.mkyong.com/maven/how-to-install-maven-in-windows/
+
+
+Downlaod maven zip from http://maven.apache.org/download.cgi
+Unzip & placed in a folder [example : C:\Program Files\apache-maven-3.5.0]
+
+
+Set Environment variable: 
+
+add System vaiable : 
+variable-> JAVA_HOME    value-> C:\Program Files\Java\jdk1.8.0_131
+variable-> M2_HOME      value-> C:\Program Files\apache-maven-3.5.0
+variable-> MAVEN_HOME   value-> C:\Program Files\apache-maven-3.5.0
