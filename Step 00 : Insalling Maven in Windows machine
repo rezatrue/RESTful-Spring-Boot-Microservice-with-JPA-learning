@@ -12,3 +12,20 @@ add System vaiable :
 variable-> JAVA_HOME    value-> C:\Program Files\Java\jdk1.8.0_131
 variable-> M2_HOME      value-> C:\Program Files\apache-maven-3.5.0
 variable-> MAVEN_HOME   value-> C:\Program Files\apache-maven-3.5.0
+
+
+add value in PATH variable:
+   value->   %M2_HOME%\bin;
+   
+run Maven in command prompt:
+         C:\Users\Reza>mvn -version
+
+if maven properly installed the will be see something similar 
+
+        Apache Maven 3.5.0 (ff8f5e7444045639af65f6095c62210b5713f426; 2017-04-04T01:39:06+06:00)
+        Maven home: C:\Program Files\apache-maven-3.5.0\bin\..
+        Java version: 1.8.0_131, vendor: Oracle Corporation
+        Java home: C:\Program Files\Java\jdk1.8.0_131\jre
+        Default locale: en_US, platform encoding: Cp1252
+        OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+        C:\Users\Reza>
